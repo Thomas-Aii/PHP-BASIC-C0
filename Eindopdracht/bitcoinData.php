@@ -18,6 +18,7 @@
 /* 
  * Opdracht 2: Zet hier de $buttons array neer 
  */
+$buttons [569821.53,78,03.654876];
 
 
 /******************************************* OPDRACHT 2 doe je hierboven *******************************************/
